@@ -2,6 +2,15 @@
 
 ![bangkit](https://github.com/baldan555/Capstone-Project-Tire-Classification/blob/main/Assets/download-removebg-preview.png)
 
+Go Explore to our another path
+
+| Path               | Github Link                                    |
+| ------------------ | ---------------------------------------------- |
+| Mobile Development | [Link](https://github.com/rizfadh/bengkelin)    |
+| Cloud Computing    | [Link](https://github.com/mchridwan04/C23-PS474)|
+| Machine learning   | [Link](https://github.com/baldan555/Capstone-Project-Tire-Classification.git) |
+
+
 # Capstone-Project-Bengkelin
 ![bengkelin](https://github.com/baldan555/Capstone-Project-Tire-Classification/blob/main/Assets/bengkelin_logo_text%20(1).png)
 
